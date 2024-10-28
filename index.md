@@ -39,8 +39,13 @@ Forewarning: this is pretty much JUST for me. I might have BAD recommendations c
 
 ## Restaurant recommendations
 - Taco Chukis
-- 
+- Pho Bac
+- Shambles (beef; weirdly this has an asian flavouring to it)
+- Mioposto
 
+### Lynnwood
+- Chops
+- Kim's Teriyaki
 
 
 ---
@@ -61,3 +66,28 @@ Forewarning: this is pretty much JUST for me. I might have BAD recommendations c
 - [Cream Puffs](https://www.youtube.com/watch?v=3xtSr5iIuTo&ab_channel=%EC%8B%9D%ED%83%81%EC%9D%BC%EA%B8%B0tablediary)
 - [[NYT] Gojuchang Caramel Cookies](https://cooking.nytimes.com/recipes/1023675-gochujang-caramel-cookies)
 - [[HotThaiKitchen] Larb](https://hot-thai-kitchen.com/laab-moo/) -- note substitutes. Oh and ACTUALLY ADD CULANTRO it's good! I apparently forgot to read the recipe properly (:
+
+
+---
+
+# Hiking spots (I've been to)
+
+## WA
+- [Poo poo point]
+- [uhhh some hike with the dude? The one that went up? Was it Martin??? And there was a bunch of rocks? Or is this iron goat O-O]
+- [? the one where tot led us astray. W/ jaimie/hunter/binn]
+- [? the one w the crew]
+- [20230514 @ the one w/ natt+jaimie]
+
+![don't remember which hike this was](./imgs/hikes/20230514_nat-ott-peach-jaimie.jpg)
+
+- [Otter Falls]
+- [20220614 @ Iron Goat Trail]
+
+![iron goat I'm freezin](./imgs/hikes/20220614_irongoat_peach-blanket.jpg)
+
+- [Talapus / Ollalie / Island Lake](https://www.alltrails.com/trail/us/washington/talapus-olallie-island-lakes-via-olallie-lake-island-rainbow-trail): 12.72miles, 2648ft elevation gain, 6:16 moving time 8:24 total time. This one killed my knees for a month (couldn't go up and down the stairs without immense sharp stabby knee pain). I had to take Ott's walking stick and he's like, 50. Oops.
+
+![don't remember which hike this was](./imgs/hikes/trail_talapusollalieilsnad.jpeg)
+![group pic](./imgs/hikes/20221023_olallie-lake-chesie-peach-lauren-ott.jpg)
+
