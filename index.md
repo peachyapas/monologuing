@@ -14,10 +14,19 @@ Forewarning: this is pretty much JUST for me. I might have BAD recommendations c
 - Book, film/tv, food/recipes/(restaurants), music/band/artist, country_recs(th/tw/sea) list
 - Book review
 
+
+
+# Table of Contents
+1. [Book section](#booksection)
+2. [Seattle section](#seattlesection)
+3. [Beer Section](#beersection)
+4. [Fourth Example](#recipesection)
+5. [Hiking spots](#hikingsection)
+
 ---
 
 
-# Book Section
+# Book Section <a name="book section"></a>
 
 
 ## Book reviews
@@ -35,7 +44,7 @@ Forewarning: this is pretty much JUST for me. I might have BAD recommendations c
 
 ---
 
-# Seattle Section
+# Seattle Section <a name="seattlesection"></a>
 
 ## Restaurant recommendations
 - Taco Chukis
@@ -50,12 +59,12 @@ Forewarning: this is pretty much JUST for me. I might have BAD recommendations c
 
 ---
 
-# Beer list
+# Beer list <a name="beersection"></a>
 
 
 ---
 
-# Recipe list
+# Recipe list <a name="recipesection"></a>
 
 ## want to make
 - ?
@@ -70,7 +79,8 @@ Forewarning: this is pretty much JUST for me. I might have BAD recommendations c
 
 ---
 
-# Hiking spots (I've been to)
+# Hiking spots (I've been to) <a name="hikingsection"></a>
+
 
 ## WA
 - [Poo poo point]
@@ -90,4 +100,17 @@ Forewarning: this is pretty much JUST for me. I might have BAD recommendations c
 
 ![don't remember which hike this was](./imgs/hikes/trail_talapusollalieilsnad.jpeg)
 ![group pic](./imgs/hikes/20221023_olallie-lake-chesie-peach-lauren-ott.jpg)
+
+
+---
+Knee
+
+?
+- cold/hot flashes at parts
+
+20241028
+- kneecap tight
+- buzzing
+- cold hot flashes throughout leg
+- leg going numb
 
